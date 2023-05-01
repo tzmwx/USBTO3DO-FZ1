@@ -14,9 +14,9 @@ U4 74LVC4245 TSSOP-24
 
 R2 4.7K
 
-1.25MM 12P
+FFC & FPC Connectors POST PLATED VERT 12P 1.25mm
 
-1.25MM 30P
+FFC & FPC Connectors POST PLATED VERT 30P 1.25mm
 
 如果你要在模块上建立一个换盘功能（同主机EJECT按钮功能）：
 
