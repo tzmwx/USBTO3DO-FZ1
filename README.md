@@ -1,4 +1,4 @@
-# USBTO3DOFZ1
+# USBTO3DO-FZ1
 这是Francois CARON的SATATO3DO项目的拓展，使用了集成电路来缩小体积，具体使用方法请参考其方案
 
 BOM:
@@ -33,4 +33,4 @@ LED：3MM
 
 预留了电容的位置，可以不需要安装
 C1/C2：220uf-470uf/10V
-C3/C4/C5：0.1uf
+C3/C4/C5/C6：0.1uf
